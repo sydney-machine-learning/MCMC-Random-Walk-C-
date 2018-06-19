@@ -1,0 +1,11 @@
+Dataset:			MelbourneMaxTemp
+TrainSize: 			365
+TestSize: 			121
+ValidationSize: 	121
+Input: 				3
+Output:				1
+MinimumError: 		0.00001
+Activation: 		Sigmoid
+HiddenNeuronsMax: 	3
+HiddenIncrementBy: 	2
+HiddenNeuronsStart: 3
